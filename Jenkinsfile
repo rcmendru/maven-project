@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'mv clean package'
+                bat 'mv clean package'
             }
             post {
                 success {
