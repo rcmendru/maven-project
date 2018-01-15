@@ -1,2 +1,2 @@
 Hello, World!
-Congratulations! But why is it happening?
+Congratulations! This should work now.
