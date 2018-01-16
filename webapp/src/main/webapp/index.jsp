@@ -1,2 +1,2 @@
 Hello, World!
-Congratulations! This should work now.
+Congratulations! This is from AWS.
